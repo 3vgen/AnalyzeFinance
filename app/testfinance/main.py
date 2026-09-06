@@ -6,7 +6,9 @@ from testfinance.api.routes import (
     accounts,
     analytics,
     auth,
+    budgets,
     categories,
+    goals,
     health,
     transactions,
 )
@@ -26,3 +28,5 @@ app.include_router(accounts.router)
 app.include_router(categories.router)
 app.include_router(transactions.router)
 app.include_router(analytics.router)
+app.include_router(budgets.router)
+app.include_router(goals.router)
