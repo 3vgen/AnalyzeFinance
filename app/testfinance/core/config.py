@@ -24,7 +24,7 @@ class Settings(BaseSettings):
     database_url: str = Field(default=_DEFAULT_DATABASE_URL)
 
     # JWT (ADR-007)
-    jwt_secret: str = "dev-secret-change-me"
+    jwt_secret: str = "dev-secret-change-me-0123456789abcdef"
     jwt_algorithm: str = "HS256"
     access_token_expire_minutes: int = 30
 

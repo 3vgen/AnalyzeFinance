@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/knowledge-base/10-Проект/Статус проекта.md",
+                "file": "docs/knowledge-base/10-Проект/Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Статус проекта"
+              "title": "Roadmap"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/knowledge-base/10-Проект/Статус проекта.md",
+                "file": "docs/knowledge-base/10-Проект/Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/knowledge-base/10-Проект/Статус проекта.md",
+                "file": "docs/knowledge-base/10-Проект/Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/knowledge-base/10-Проект/Статус проекта.md",
+                "file": "docs/knowledge-base/10-Проект/Roadmap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,17 +190,17 @@
   },
   "active": "21bfcca84086dc1a",
   "lastOpenFiles": [
-    "app/testfinance/api/routes/__pycache__/health.cpython-313.pyc",
-    "app/testfinance/api/routes/__pycache__/__init__.cpython-313.pyc",
-    "app/testfinance/api/routes/__pycache__",
-    "app/testfinance/api/__pycache__/__init__.cpython-313.pyc",
-    "app/testfinance/api/__pycache__",
-    "app/testfinance/__pycache__/main.cpython-313.pyc",
-    "app/testfinance/core/__pycache__/config.cpython-313.pyc",
-    "app/testfinance/core/__pycache__/__init__.cpython-313.pyc",
-    "app/testfinance/core/__pycache__",
-    "app/testfinance/db/__pycache__/session.cpython-313.pyc",
-    "app/testfinance/scripts/__pycache__/seed_currencies.cpython-313.pyc",
+    "docs/knowledge-base/10-Проект/Статус проекта.md",
+    "app/testfinance/schemas/__pycache__/user.cpython-313.pyc",
+    "app/testfinance/schemas/__pycache__/__init__.cpython-313.pyc",
+    "app/testfinance/schemas/__pycache__",
+    "app/testfinance/services/__pycache__/users.cpython-313.pyc",
+    "app/testfinance/services/__pycache__/__init__.cpython-313.pyc",
+    "app/testfinance/services/__pycache__",
+    "app/testfinance/core/__pycache__/security.cpython-313.pyc",
+    "app/testfinance/api/__pycache__/deps.cpython-313.pyc",
+    "app/testfinance/api/routes/__pycache__/auth.cpython-313.pyc",
+    "app/testfinance/api/routes/auth.py",
     "docs/knowledge-base/20-Архитектура/Пользователи и доступ.md",
     "docs/knowledge-base/30-Данные/Модель данных.md",
     "docs/knowledge-base/Карта знаний.md",
