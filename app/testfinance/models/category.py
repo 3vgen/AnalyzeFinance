@@ -27,7 +27,7 @@ class Category(TimestampMixin, Base):
     is_archived: Mapped[bool] = mapped_column(Boolean, default=False, nullable=False)
 
     parent: Mapped[Category | None] = relationship(
-        "Category", remote_side=[id], back_populates="children"
+        "Category", remote_side=lambda: [Category.id], back_populates="children"
     )
     children: Mapped[list[Category]] = relationship(
         "Category", back_populates="parent"

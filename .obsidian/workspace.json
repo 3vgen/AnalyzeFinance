@@ -11,10 +11,14 @@
             "id": "21bfcca84086dc1a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "docs/knowledge-base/10-Проект/Статус проекта.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Статус проекта"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/knowledge-base/10-Проект/Статус проекта.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/knowledge-base/10-Проект/Статус проекта.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/knowledge-base/40-Проект/Контекст проекта.md",
+                "file": "docs/knowledge-base/10-Проект/Статус проекта.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -182,12 +188,27 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "b2b18cd23fa520d1",
+  "active": "21bfcca84086dc1a",
   "lastOpenFiles": [
+    "app/testfinance/api/routes/__pycache__/health.cpython-313.pyc",
+    "app/testfinance/api/routes/__pycache__/__init__.cpython-313.pyc",
+    "app/testfinance/api/routes/__pycache__",
+    "app/testfinance/api/__pycache__/__init__.cpython-313.pyc",
+    "app/testfinance/api/__pycache__",
+    "app/testfinance/__pycache__/main.cpython-313.pyc",
+    "app/testfinance/core/__pycache__/config.cpython-313.pyc",
+    "app/testfinance/core/__pycache__/__init__.cpython-313.pyc",
+    "app/testfinance/core/__pycache__",
+    "app/testfinance/db/__pycache__/session.cpython-313.pyc",
+    "app/testfinance/scripts/__pycache__/seed_currencies.cpython-313.pyc",
+    "docs/knowledge-base/20-Архитектура/Пользователи и доступ.md",
+    "docs/knowledge-base/30-Данные/Модель данных.md",
     "docs/knowledge-base/Карта знаний.md",
+    "docs/knowledge-base/40-Предметная область/Области финансов.md",
+    "docs/knowledge-base/Home.md",
+    "docs/knowledge-base/40-Проект/Контекст проекта.md",
     "docs/knowledge-base/60-Справочники/Глоссарий.md",
     "docs/knowledge-base/20-Архитектура/Технологический стек.md",
-    "docs/knowledge-base/20-Архитектура/Пользователи и доступ.md",
     "docs/knowledge-base/20-Архитектура/Журнал решений.md",
     "docs/knowledge-base/20-Архитектура/Архитектура сервиса.md",
     "docs/knowledge-base/20-Архитектура/Архитектура и стек.md",
@@ -204,21 +225,6 @@
     "docs/knowledge-base/40-Предметная область/Финансовые цели.md",
     "docs/knowledge-base/40-Предметная область/Транзакция.md",
     "docs/knowledge-base/40-Предметная область/Счёт.md",
-    "docs/knowledge-base/40-Предметная область/Расход.md",
-    "docs/knowledge-base/40-Предметная область/Обязательства.md",
-    "docs/knowledge-base/40-Предметная область/Категория.md",
-    "docs/knowledge-base/40-Предметная область/Инвестиции.md",
-    "docs/knowledge-base/40-Предметная область/Доход.md",
-    "docs/knowledge-base/40-Предметная область/Активы.md",
-    "docs/knowledge-base/60-Справочники",
-    "docs/knowledge-base/50-Методы",
-    "docs/knowledge-base/40-Предметная область",
-    "docs/knowledge-base/20-Архитектура",
-    "docs/knowledge-base/10-Проект",
-    "app/alembic/versions/__pycache__/223453ecec4b_initial_schema_core_entities.cpython-313.pyc",
-    "app/alembic/versions/__pycache__",
-    "app/alembic/versions/223453ecec4b_initial_schema_core_entities.py",
-    "app/alembic/__pycache__/env.cpython-313.pyc",
-    "app/alembic/__pycache__"
+    "docs/knowledge-base/40-Предметная область/Расход.md"
   ]
 }
