@@ -2,7 +2,14 @@
 
 from fastapi import FastAPI
 
-from testfinance.api.routes import accounts, auth, categories, health, transactions
+from testfinance.api.routes import (
+    accounts,
+    analytics,
+    auth,
+    categories,
+    health,
+    transactions,
+)
 from testfinance.core.config import get_settings
 
 settings = get_settings()
@@ -18,3 +25,4 @@ app.include_router(auth.router)
 app.include_router(accounts.router)
 app.include_router(categories.router)
 app.include_router(transactions.router)
+app.include_router(analytics.router)

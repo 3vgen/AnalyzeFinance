@@ -190,17 +190,18 @@
   },
   "active": "21bfcca84086dc1a",
   "lastOpenFiles": [
+    "app/testfinance/services/__pycache__/analytics.cpython-313.pyc",
+    "app/testfinance/schemas/__pycache__/analytics.cpython-313.pyc",
+    "app/testfinance/api/routes/__pycache__/analytics.cpython-313.pyc",
+    "app/testfinance/api/routes/analytics.py",
+    "app/testfinance/services/analytics.py",
+    "app/testfinance/schemas/analytics.py",
     "docs/knowledge-base/10-Проект/Бэклог.md",
     "app/testfinance/services/__pycache__/transactions.cpython-313.pyc",
     "app/testfinance/schemas/__pycache__/transaction.cpython-313.pyc",
     "app/testfinance/api/routes/__pycache__/transactions.cpython-313.pyc",
     "app/testfinance/services/__pycache__/categories.cpython-313.pyc",
     "app/testfinance/schemas/__pycache__/category.cpython-313.pyc",
-    "app/testfinance/api/routes/__pycache__/categories.cpython-313.pyc",
-    "app/testfinance/api/routes/transactions.py",
-    "app/testfinance/api/routes/categories.py",
-    "app/testfinance/services/transactions.py",
-    "app/testfinance/services/categories.py",
     "docs/knowledge-base/10-Проект/Статус проекта.md",
     "docs/knowledge-base/20-Архитектура/Пользователи и доступ.md",
     "docs/knowledge-base/30-Данные/Модель данных.md",
@@ -224,7 +225,6 @@
     "docs/knowledge-base/50-Методы/Методы и метрики.md",
     "docs/knowledge-base/40-Предметная область/Чистый капитал.md",
     "docs/knowledge-base/40-Предметная область/Финансовые цели.md",
-    "docs/knowledge-base/40-Предметная область/Транзакция.md",
-    "docs/knowledge-base/40-Предметная область/Счёт.md"
+    "docs/knowledge-base/40-Предметная область/Транзакция.md"
   ]
 }
