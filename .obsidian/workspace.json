@@ -11,10 +11,14 @@
             "id": "21bfcca84086dc1a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "docs/knowledge-base/00-MOC/Данные и модель.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Данные и модель"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/knowledge-base/00-MOC/Данные и модель.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/knowledge-base/00-MOC/Данные и модель.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "docs/knowledge-base/00-MOC/Данные и модель.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,8 +190,13 @@
   },
   "active": "21bfcca84086dc1a",
   "lastOpenFiles": [
-    "docs/knowledge-base/40-Проект/Продукт.md",
+    "app/pyproject.toml",
+    "app",
+    "docs/knowledge-base/Home.md",
     "docs/knowledge-base/50-Справочники/Глоссарий.md",
+    "docs/knowledge-base/10-Концепции/Счёт.md",
+    "docs/knowledge-base/45-Архитектура/Архитектура сервиса.md",
+    "docs/knowledge-base/40-Проект/Продукт.md",
     "docs/knowledge-base/45-Архитектура/Журнал решений.md",
     "docs/knowledge-base/40-Проект/Контекст проекта.md",
     "docs/knowledge-base/10-Концепции/Активы.md",
@@ -199,7 +211,6 @@
     "docs/knowledge-base/30-Данные/Импорт выписок.md",
     "docs/knowledge-base/40-Проект/Статус проекта.md",
     "docs/knowledge-base/45-Архитектура/Пользователи и доступ.md",
-    "docs/knowledge-base/45-Архитектура/Архитектура сервиса.md",
     "docs/knowledge-base/45-Архитектура/Технологический стек.md",
     "docs/knowledge-base/45-Архитектура",
     "docs/knowledge-base/30-Данные/Валюты.md",

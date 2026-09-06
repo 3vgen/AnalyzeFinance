@@ -1,0 +1,15 @@
+[project]
+name = "testfinance"
+version = "0.1.0"
+description = "Python-сервис для анализа личных финансов"
+authors = [
+    {name = "Evgeniy Semin",email = "evgeniy.zhenia@gmail.com"}
+]
+requires-python = ">=3.12"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
