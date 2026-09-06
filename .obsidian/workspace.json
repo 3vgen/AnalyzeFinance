@@ -190,17 +190,18 @@
   },
   "active": "21bfcca84086dc1a",
   "lastOpenFiles": [
+    "app/testfinance/services/__pycache__/accounts.cpython-313.pyc",
+    "app/testfinance/schemas/__pycache__/account.cpython-313.pyc",
+    "app/testfinance/api/routes/__pycache__/accounts.cpython-313.pyc",
+    "app/testfinance/api/routes/accounts.py",
+    "app/testfinance/services/accounts.py",
+    "app/testfinance/schemas/account.py",
     "docs/knowledge-base/10-Проект/Статус проекта.md",
     "app/testfinance/schemas/__pycache__/user.cpython-313.pyc",
     "app/testfinance/schemas/__pycache__/__init__.cpython-313.pyc",
     "app/testfinance/schemas/__pycache__",
     "app/testfinance/services/__pycache__/users.cpython-313.pyc",
     "app/testfinance/services/__pycache__/__init__.cpython-313.pyc",
-    "app/testfinance/services/__pycache__",
-    "app/testfinance/core/__pycache__/security.cpython-313.pyc",
-    "app/testfinance/api/__pycache__/deps.cpython-313.pyc",
-    "app/testfinance/api/routes/__pycache__/auth.cpython-313.pyc",
-    "app/testfinance/api/routes/auth.py",
     "docs/knowledge-base/20-Архитектура/Пользователи и доступ.md",
     "docs/knowledge-base/30-Данные/Модель данных.md",
     "docs/knowledge-base/Карта знаний.md",
@@ -224,7 +225,6 @@
     "docs/knowledge-base/40-Предметная область/Чистый капитал.md",
     "docs/knowledge-base/40-Предметная область/Финансовые цели.md",
     "docs/knowledge-base/40-Предметная область/Транзакция.md",
-    "docs/knowledge-base/40-Предметная область/Счёт.md",
-    "docs/knowledge-base/40-Предметная область/Расход.md"
+    "docs/knowledge-base/40-Предметная область/Счёт.md"
   ]
 }
