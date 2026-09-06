@@ -1,0 +1,19 @@
+# Виртуальное окружение
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Окружение и секреты
+.env
+.env.*
+
+# IDE
+.idea/
+.vscode/
+.DS_Store

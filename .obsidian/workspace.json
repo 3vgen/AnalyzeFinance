@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/knowledge-base/00-MOC/Данные и модель.md",
+                "file": "docs/knowledge-base/10-Концепции/Категория.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Данные и модель"
+              "title": "Категория"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/knowledge-base/00-MOC/Данные и модель.md",
+                "file": "docs/knowledge-base/10-Концепции/Категория.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/knowledge-base/00-MOC/Данные и модель.md",
+                "file": "docs/knowledge-base/10-Концепции/Категория.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/knowledge-base/00-MOC/Данные и модель.md",
+                "file": "docs/knowledge-base/10-Концепции/Категория.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,8 +190,19 @@
   },
   "active": "21bfcca84086dc1a",
   "lastOpenFiles": [
-    "app/pyproject.toml",
-    "app",
+    "docs/knowledge-base/30-Данные/Схема базы данных.md",
+    "app/testfinance/models/__pycache__/user.cpython-313.pyc",
+    "app/testfinance/models/__pycache__/transaction.cpython-313.pyc",
+    "app/testfinance/models/__pycache__/currency.cpython-313.pyc",
+    "app/testfinance/models/__pycache__/category.cpython-313.pyc",
+    "app/testfinance/models/__pycache__/enums.cpython-313.pyc",
+    "app/testfinance/models/__pycache__/base.cpython-313.pyc",
+    "app/testfinance/db/__pycache__/base.cpython-313.pyc",
+    "app/testfinance/db/__pycache__/__init__.cpython-313.pyc",
+    "app/testfinance/db/__pycache__",
+    "app/testfinance/models/__pycache__/account.cpython-313.pyc",
+    "docs/knowledge-base/20-Методы/Бюджет.md",
+    "docs/knowledge-base/00-MOC/Данные и модель.md",
     "docs/knowledge-base/Home.md",
     "docs/knowledge-base/50-Справочники/Глоссарий.md",
     "docs/knowledge-base/10-Концепции/Счёт.md",
@@ -212,10 +223,8 @@
     "docs/knowledge-base/40-Проект/Статус проекта.md",
     "docs/knowledge-base/45-Архитектура/Пользователи и доступ.md",
     "docs/knowledge-base/45-Архитектура/Технологический стек.md",
-    "docs/knowledge-base/45-Архитектура",
     "docs/knowledge-base/30-Данные/Валюты.md",
     "docs/knowledge-base/10-Концепции/Расход.md",
-    "docs/knowledge-base/10-Концепции/Транзакция.md",
-    "docs/knowledge-base/00-MOC/Данные и модель.md"
+    "docs/knowledge-base/10-Концепции/Транзакция.md"
   ]
 }
