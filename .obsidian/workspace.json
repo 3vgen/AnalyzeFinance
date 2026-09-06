@@ -190,6 +190,7 @@
   },
   "active": "21bfcca84086dc1a",
   "lastOpenFiles": [
+    "docs/knowledge-base/10-Проект/Бэклог.md",
     "app/testfinance/services/__pycache__/transactions.cpython-313.pyc",
     "app/testfinance/schemas/__pycache__/transaction.cpython-313.pyc",
     "app/testfinance/api/routes/__pycache__/transactions.cpython-313.pyc",
@@ -200,7 +201,6 @@
     "app/testfinance/api/routes/categories.py",
     "app/testfinance/services/transactions.py",
     "app/testfinance/services/categories.py",
-    "app/testfinance/schemas/transaction.py",
     "docs/knowledge-base/10-Проект/Статус проекта.md",
     "docs/knowledge-base/20-Архитектура/Пользователи и доступ.md",
     "docs/knowledge-base/30-Данные/Модель данных.md",
